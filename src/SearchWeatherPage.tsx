@@ -58,7 +58,7 @@ const SearchWeatherPage = () => {
                     <Link
                       key={`${city.name}-${index}`}
                       to={{
-                        pathname: `/weather-details/${city.lat}/${city.lon}`,
+                        pathname: `/weather-app/weather-details/${city.lat}/${city.lon}`,
                       }}
                     >
                       <span>

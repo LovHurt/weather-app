@@ -23,7 +23,7 @@ const WeatherDetailsPage: React.FC = () => {
 
   if (weatherError) {
     console.log(
-      "City information could not be retrieved. Please enter a valid city name."
+      "Weather information could not be retrieved. Please enter a valid city name."
     );
   }
 
