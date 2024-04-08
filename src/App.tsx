@@ -10,8 +10,8 @@ function App() {
     <>
       <Router>
         <Routes>
-          <Route path="/" element={<SearchWeatherPage />} />
-          <Route path="/weather-details/:lat/:lon" element={<WeatherDetailsPage />}/>
+          <Route path="/weather-app" element={<SearchWeatherPage />} />
+          <Route path="/weather-app/weather-details/:lat/:lon" element={<WeatherDetailsPage />}/>
         </Routes>
         <ToastContainer />
       </Router>

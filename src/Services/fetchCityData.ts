@@ -5,7 +5,7 @@ import { toast } from 'react-toastify';
 
 const fetchCityData = async (debouncedCity: string) => {
   try {
-    const response = await axios.get<CityData[]>(`http://api.openweathermap.org/geo/1.0/direct?q=${debouncedCity}&limit=10&appid=${API_KEY}`);
+    const response = await axios.get<CityData[]>(`https://api.openweathermap.org/geo/1.0/direct?q=${debouncedCity}&limit=10&appid=${API_KEY}`);
     console.log(response.data)
     const cityData = response.data;
     if (cityData.length === 0) {
