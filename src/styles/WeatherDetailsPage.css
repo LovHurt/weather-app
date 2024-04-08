@@ -1,0 +1,173 @@
+
+.result-container {
+  background-color: #16161F;
+  padding: 20px;
+  border-radius: 8px;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+  margin-top: 20px;
+  width: 24rem;
+}
+
+.result-container p {
+  font-family: 'Nunito', sans-serif;
+  font-weight: bold;
+  border-bottom: 1px solid #1C1C27;
+  color: #BFBFD4;
+  font-size: 16px;
+}
+
+.weather-info {
+  display: flex;
+  align-items: center;
+}
+.weather-info .icons {
+  margin-bottom: 5px;
+}
+
+.weather-description {
+  padding-bottom: 5px;
+  margin-left: 8px;
+}
+
+.weather-data {
+  margin-left: auto; 
+  justify-content: flex-end;
+  color: #FAFAFA;
+}
+
+.result-container p:first-child {
+  margin-top: 2px;
+}
+
+.result-container p:last-child {
+  border-bottom: none;
+  margin-bottom: 0%;
+  padding-bottom: 0%;
+}
+
+.weather-image-first-container{
+  border-radius: 8px;
+  background-color: #16161F;
+  padding: 10px
+}
+
+.weather-image-second-container {
+  position: relative;
+  display: flex;
+  justify-content: center;
+  max-width: 25rem;
+  max-height: 25rem;
+  border-radius: 8px;
+  overflow: hidden;
+}
+
+.image-weather{
+  object-fit: contain;
+}
+
+.container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.top-left {
+  position: absolute;
+  top: 10px;
+  left: 15px;
+}
+
+.bottom-left {
+  position: absolute;
+  bottom: 10px;
+  left: 15px;
+}
+
+.placename {
+  font-weight: bold;
+  padding-bottom: 0%;
+  margin-bottom: 3%;
+  font-size: 16px;
+}
+
+.date {
+  padding-top: 0%;
+  margin-top: 0%;
+  font-size: 12px;
+}
+
+.text-white {
+  color: #FAFAFA;
+}
+
+.temp-text {
+  font-weight: bold;
+  font-size: 48px;
+  margin-bottom: 5px;
+}
+
+.minmax-text {
+  font-weight: bold;
+  font-size: 16px;
+}
+
+.weather-situation-text {
+  font-size: 14px;
+}
+
+.weather-icons{
+  position: absolute;
+  bottom: 10px;
+  right: 15px;
+}
+
+.weatherforecast-container {
+  display: flex;
+  background-color: #16161F;
+  margin-top: 1rem;
+  border-radius: 8px;
+}
+
+.weatherforecast-item {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  width: 4.4rem;
+  margin: 0.5rem; 
+}
+
+.weatherforecast-day {
+  font-size: 16px; 
+  font-weight: bold;
+  color: #BFBFD4;
+  font-family: 'Nunito', sans-serif;
+  margin-bottom: 0%;
+  padding-bottom: 0%;
+  font-weight: bold;
+}
+
+.weatherforecast-icon {
+  margin-top: 0%;
+  padding-top: 0%; 
+  padding-bottom: 0%;
+  margin-bottom: 0%;
+}
+
+.weatherforecast-maxtemp {
+  font-size: 16px;
+  color: #FAFAFA;
+  font-weight: bold;
+  font-family: 'Nunito', sans-serif;
+  margin-bottom: 10%;
+  padding-bottom: 0%;
+  margin-top: 0%;
+  padding-top: 0%;
+}
+
+.weatherforecast-mintemp {
+  font-size: 16px;
+  color: #7F7F98;
+  font-family: 'Nunito', sans-serif;
+  margin-top: 0%;
+  padding-top: 0%;
+}
