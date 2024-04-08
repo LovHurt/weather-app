@@ -65,44 +65,44 @@ const WeatherDetailsPage: React.FC = () => {
         </div>
       </div>
       <div className="result-container">
-        <p className="weather-info">
+        <div className="weather-info">
           <div className="icons">
             <ThermometerIcon />
           </div>
           <div className="weather-description">Thermal sensation</div>
           <div className="weather-data">
-            {weatherData &&
+            <span>{weatherData &&
               (weatherData.list[0].main.feels_like - 273.15).toFixed(2)}
-            °C
+            °C</span>
           </div>
-        </p>
-        <p className="weather-info">
+        </div>
+        <div className="weather-info">
           <div className="icons">
             <RainIcon />
           </div>
           <div className="weather-description">Probability of Rain</div>
           <div className="weather-data">
-            {(weatherData && weatherData.list[0].pop * 100)?.toFixed(0)}%
+            <span>{(weatherData && weatherData.list[0].pop * 100)?.toFixed(0)}% </span>
           </div>
-        </p>
-        <p className="weather-info">
+        </div>
+        <div className="weather-info">
           <div className="icons">
             <WindIcon />
           </div>
           <div className="weather-description">Wind Speed</div>
           <div className="weather-data">
-            {weatherData && weatherData.list[0].wind.speed} km/s
+            <span>{weatherData && weatherData.list[0].wind.speed} km/s</span>
           </div>
-        </p>
-        <p className="weather-info">
+        </div>
+        <div className="weather-info">
           <div className="icons">
             <HumidityIcon />
           </div>
           <div className="weather-description">Air Humidity</div>
           <div className="weather-data">
-            {weatherData && weatherData.list[0].main.humidity}%
+           <span> {weatherData && weatherData.list[0].main.humidity}%</span>
           </div>
-        </p>
+        </div>
       </div>
 
       <div className="weatherforecast-container">

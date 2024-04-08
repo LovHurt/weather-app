@@ -8,10 +8,9 @@
   width: 24rem;
 }
 
-.result-container p {
+.result-container div {
   font-family: 'Nunito', sans-serif;
   font-weight: bold;
-  border-bottom: 1px solid #1C1C27;
   color: #BFBFD4;
   font-size: 16px;
 }
@@ -19,6 +18,7 @@
 .weather-info {
   display: flex;
   align-items: center;
+  border-bottom: 1px solid #1C1C27;
 }
 .weather-info .icons {
   margin-bottom: 5px;
@@ -35,11 +35,15 @@
   color: #FAFAFA;
 }
 
+.weather-data span {
+  color:#FAFAFA
+}
+
 .result-container p:first-child {
   margin-top: 2px;
 }
 
-.result-container p:last-child {
+.result-container div:last-child {
   border-bottom: none;
   margin-bottom: 0%;
   padding-bottom: 0%;

@@ -12,8 +12,8 @@ const CloudyDayIcon = () => {
 <path d="M91.5909 40.5138C91.5909 41.1935 91.5323 41.8595 91.4199 42.5069C94.3294 43.1757 96.5 45.7934 96.5 48.9207C96.5 52.5543 93.5695 55.5 89.9545 55.5H80.1317C77.4424 49.6047 71.4345 45.5 64.4545 45.5C59.8664 45.5 55.6983 47.2736 52.6166 50.1635C52.5401 49.761 52.5 49.3456 52.5 48.9207C52.5 46.324 53.9965 44.0787 56.17 43.0086C56.1477 42.7588 56.1364 42.5057 56.1364 42.25C56.1364 37.6575 59.7995 33.9345 64.3182 33.9345C66.3447 33.9345 68.1992 34.6833 69.6283 35.9236C71.3924 31.8489 75.4334 29 80.1364 29C86.4625 29 91.5909 34.1549 91.5909 40.5138Z" fill="url(#paint2_linear_303_721)"/>
 </g>
 <defs>
-<filter id="filter0_i_303_721" x="33.5" y="36.5" width="14.5" height="19" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
-<feFlood flood-opacity="0" result="BackgroundImageFix"/>
+<filter id="filter0_i_303_721" x="33.5" y="36.5" width="14.5" height="19" filterUnits="userSpaceOnUse" colorInterpolationFilters="sRGB">
+<feFlood floodOpacity="0" result="BackgroundImageFix"/>
 <feBlend mode="normal" in="SourceGraphic" in2="BackgroundImageFix" result="shape"/>
 <feColorMatrix in="SourceAlpha" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0" result="hardAlpha"/>
 <feOffset dy="11"/>
@@ -22,8 +22,8 @@ const CloudyDayIcon = () => {
 <feColorMatrix type="matrix" values="0 0 0 0 1 0 0 0 0 1 0 0 0 0 1 0 0 0 1 0"/>
 <feBlend mode="normal" in2="shape" result="effect1_innerShadow_303_721"/>
 </filter>
-<filter id="filter1_i_303_721" x="23" y="45.5" width="66" height="49" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
-<feFlood flood-opacity="0" result="BackgroundImageFix"/>
+<filter id="filter1_i_303_721" x="23" y="45.5" width="66" height="49" filterUnits="userSpaceOnUse" colorInterpolationFilters="sRGB">
+<feFlood floodOpacity="0" result="BackgroundImageFix"/>
 <feBlend mode="normal" in="SourceGraphic" in2="BackgroundImageFix" result="shape"/>
 <feColorMatrix in="SourceAlpha" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0" result="hardAlpha"/>
 <feOffset dy="11"/>
@@ -32,8 +32,8 @@ const CloudyDayIcon = () => {
 <feColorMatrix type="matrix" values="0 0 0 0 1 0 0 0 0 1 0 0 0 0 1 0 0 0 1 0"/>
 <feBlend mode="normal" in2="shape" result="effect1_innerShadow_303_721"/>
 </filter>
-<filter id="filter2_i_303_721" x="52.5" y="29" width="44" height="36.5" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
-<feFlood flood-opacity="0" result="BackgroundImageFix"/>
+<filter id="filter2_i_303_721" x="52.5" y="29" width="44" height="36.5" filterUnits="userSpaceOnUse" colorInterpolationFilters="sRGB">
+<feFlood floodOpacity="0" result="BackgroundImageFix"/>
 <feBlend mode="normal" in="SourceGraphic" in2="BackgroundImageFix" result="shape"/>
 <feColorMatrix in="SourceAlpha" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0" result="hardAlpha"/>
 <feOffset dy="11"/>
@@ -43,16 +43,16 @@ const CloudyDayIcon = () => {
 <feBlend mode="normal" in2="shape" result="effect1_innerShadow_303_721"/>
 </filter>
 <linearGradient id="paint0_linear_303_721" x1="34.4223" y1="44.6964" x2="49.5118" y2="33.9041" gradientUnits="userSpaceOnUse">
-<stop stop-color="white" stop-opacity="0.65"/>
-<stop offset="1" stop-color="white" stop-opacity="0.58"/>
+<stop stopColor="white" stopOpacity="0.65"/>
+<stop offset="1" stopColor="white" stopOpacity="0.58"/>
 </linearGradient>
 <linearGradient id="paint1_linear_303_721" x1="27.1979" y1="81.0179" x2="93.5604" y2="31.1619" gradientUnits="userSpaceOnUse">
-<stop stop-color="white" stop-opacity="0.65"/>
-<stop offset="1" stop-color="white" stop-opacity="0.58"/>
+<stop stopColor="white" stopOpacity="0.65"/>
+<stop offset="1" stopColor="white" stopOpacity="0.58"/>
 </linearGradient>
 <linearGradient id="paint2_linear_303_721" x1="93.7014" y1="53.1339" x2="48.8549" y2="20.0779" gradientUnits="userSpaceOnUse">
-<stop stop-color="white" stop-opacity="0.65"/>
-<stop offset="1" stop-color="white" stop-opacity="0.58"/>
+<stop stopColor="white" stopOpacity="0.65"/>
+<stop offset="1" stopColor="white" stopOpacity="0.58"/>
 </linearGradient>
 </defs>
 </svg>

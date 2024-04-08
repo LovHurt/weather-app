@@ -24,13 +24,13 @@ const FewCloudsNightIcon = () => {
 <path d="M45.4216 64.9609C44.2999 65.459 43.8621 65.88 43.4609 66.9217C43.1413 65.9122 42.7483 65.4619 41.5001 64.9609C42.7842 64.5426 43.1326 64.0583 43.4609 63.0002C43.8642 63.9754 44.1133 64.5076 45.4216 64.9609Z" fill="url(#paint5_linear_303_725)"/>
 </g>
 <defs>
-<filter id="filter0_f_303_725" x="0.716675" y="0.306396" width="159.773" height="164.807" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
-<feFlood flood-opacity="0" result="BackgroundImageFix"/>
+<filter id="filter0_f_303_725" x="0.716675" y="0.306396" width="159.773" height="164.807" filterUnits="userSpaceOnUse" colorInterpolationFilters="sRGB">
+<feFlood floodOpacity="0" result="BackgroundImageFix"/>
 <feBlend mode="normal" in="SourceGraphic" in2="BackgroundImageFix" result="shape"/>
 <feGaussianBlur stdDeviation="26.5" result="effect1_foregroundBlur_303_725"/>
 </filter>
-<filter id="filter1_i_303_725" x="63.1724" y="45.7068" width="47.5402" height="38.2217" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
-<feFlood flood-opacity="0" result="BackgroundImageFix"/>
+<filter id="filter1_i_303_725" x="63.1724" y="45.7068" width="47.5402" height="38.2217" filterUnits="userSpaceOnUse" colorInterpolationFilters="sRGB">
+<feFlood floodOpacity="0" result="BackgroundImageFix"/>
 <feBlend mode="normal" in="SourceGraphic" in2="BackgroundImageFix" result="shape"/>
 <feColorMatrix in="SourceAlpha" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0" result="hardAlpha"/>
 <feOffset dy="11"/>
@@ -39,8 +39,8 @@ const FewCloudsNightIcon = () => {
 <feColorMatrix type="matrix" values="0 0 0 0 1 0 0 0 0 1 0 0 0 0 1 0 0 0 1 0"/>
 <feBlend mode="normal" in2="shape" result="effect1_innerShadow_303_725"/>
 </filter>
-<filter id="filter2_i_303_725" x="55.4368" y="57.1804" width="49.0862" height="57.6814" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
-<feFlood flood-opacity="0" result="BackgroundImageFix"/>
+<filter id="filter2_i_303_725" x="55.4368" y="57.1804" width="49.0862" height="57.6814" filterUnits="userSpaceOnUse" colorInterpolationFilters="sRGB">
+<feFlood floodOpacity="0" result="BackgroundImageFix"/>
 <feBlend mode="normal" in="SourceGraphic" in2="BackgroundImageFix" result="shape"/>
 <feColorMatrix in="SourceAlpha" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0" result="hardAlpha"/>
 <feOffset dy="4"/>
@@ -49,8 +49,8 @@ const FewCloudsNightIcon = () => {
 <feColorMatrix type="matrix" values="0 0 0 0 1 0 0 0 0 1 0 0 0 0 1 0 0 0 0.55 0"/>
 <feBlend mode="normal" in2="shape" result="effect1_innerShadow_303_725"/>
 </filter>
-<filter id="filter3_i_303_725" x="34" y="88.115" width="47.5402" height="38.2217" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
-<feFlood flood-opacity="0" result="BackgroundImageFix"/>
+<filter id="filter3_i_303_725" x="34" y="88.115" width="47.5402" height="38.2217" filterUnits="userSpaceOnUse" colorInterpolationFilters="sRGB">
+<feFlood floodOpacity="0" result="BackgroundImageFix"/>
 <feBlend mode="normal" in="SourceGraphic" in2="BackgroundImageFix" result="shape"/>
 <feColorMatrix in="SourceAlpha" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0" result="hardAlpha"/>
 <feOffset dy="11"/>
@@ -59,8 +59,8 @@ const FewCloudsNightIcon = () => {
 <feColorMatrix type="matrix" values="0 0 0 0 1 0 0 0 0 1 0 0 0 0 1 0 0 0 1 0"/>
 <feBlend mode="normal" in2="shape" result="effect1_innerShadow_303_725"/>
 </filter>
-<filter id="filter4_di_303_725" x="39.0085" y="50.2326" width="27.4656" height="27.4656" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
-<feFlood flood-opacity="0" result="BackgroundImageFix"/>
+<filter id="filter4_di_303_725" x="39.0085" y="50.2326" width="27.4656" height="27.4656" filterUnits="userSpaceOnUse" colorInterpolationFilters="sRGB">
+<feFlood floodOpacity="0" result="BackgroundImageFix"/>
 <feColorMatrix in="SourceAlpha" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0" result="hardAlpha"/>
 <feOffset dy="6"/>
 <feGaussianBlur stdDeviation="4.38372"/>
@@ -74,8 +74,8 @@ const FewCloudsNightIcon = () => {
 <feColorMatrix type="matrix" values="0 0 0 0 1 0 0 0 0 1 0 0 0 0 1 0 0 0 0.44 0"/>
 <feBlend mode="normal" in2="shape" result="effect2_innerShadow_303_725"/>
 </filter>
-<filter id="filter5_di_303_725" x="84.6578" y="77.514" width="27.4656" height="27.4656" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
-<feFlood flood-opacity="0" result="BackgroundImageFix"/>
+<filter id="filter5_di_303_725" x="84.6578" y="77.514" width="27.4656" height="27.4656" filterUnits="userSpaceOnUse" colorInterpolationFilters="sRGB">
+<feFlood floodOpacity="0" result="BackgroundImageFix"/>
 <feColorMatrix in="SourceAlpha" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0" result="hardAlpha"/>
 <feOffset dy="6"/>
 <feGaussianBlur stdDeviation="4.38372"/>
@@ -89,8 +89,8 @@ const FewCloudsNightIcon = () => {
 <feColorMatrix type="matrix" values="0 0 0 0 1 0 0 0 0 1 0 0 0 0 1 0 0 0 0.44 0"/>
 <feBlend mode="normal" in2="shape" result="effect2_innerShadow_303_725"/>
 </filter>
-<filter id="filter6_di_303_725" x="32.7327" y="60.2328" width="21.4564" height="21.4563" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
-<feFlood flood-opacity="0" result="BackgroundImageFix"/>
+<filter id="filter6_di_303_725" x="32.7327" y="60.2328" width="21.4564" height="21.4563" filterUnits="userSpaceOnUse" colorInterpolationFilters="sRGB">
+<feFlood floodOpacity="0" result="BackgroundImageFix"/>
 <feColorMatrix in="SourceAlpha" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0" result="hardAlpha"/>
 <feOffset dy="6"/>
 <feGaussianBlur stdDeviation="4.38372"/>
@@ -105,28 +105,28 @@ const FewCloudsNightIcon = () => {
 <feBlend mode="normal" in2="shape" result="effect2_innerShadow_303_725"/>
 </filter>
 <linearGradient id="paint0_linear_303_725" x1="66.1961" y1="71.4088" x2="114.156" y2="35.5436" gradientUnits="userSpaceOnUse">
-<stop stop-color="white"/>
-<stop offset="1" stop-color="white" stop-opacity="0.58"/>
+<stop stopColor="white"/>
+<stop offset="1" stopColor="white" stopOpacity="0.58"/>
 </linearGradient>
 <linearGradient id="paint1_linear_303_725" x1="81.4052" y1="52.7301" x2="71.5932" y2="112.142" gradientUnits="userSpaceOnUse">
-<stop stop-color="#FFEE94"/>
-<stop offset="1" stop-color="#FF9900"/>
+<stop stopColor="#FFEE94"/>
+<stop offset="1" stopColor="#FF9900"/>
 </linearGradient>
 <linearGradient id="paint2_linear_303_725" x1="37.0237" y1="113.817" x2="84.984" y2="77.9518" gradientUnits="userSpaceOnUse">
-<stop stop-color="white"/>
-<stop offset="1" stop-color="white" stop-opacity="0.58"/>
+<stop stopColor="white"/>
+<stop offset="1" stopColor="white" stopOpacity="0.58"/>
 </linearGradient>
 <linearGradient id="paint3_linear_303_725" x1="51.3048" y1="63.396" x2="55.9782" y2="54.6214" gradientUnits="userSpaceOnUse">
-<stop stop-color="#FF9900"/>
-<stop offset="1" stop-color="#FFEE94"/>
+<stop stopColor="#FF9900"/>
+<stop offset="1" stopColor="#FFEE94"/>
 </linearGradient>
 <linearGradient id="paint4_linear_303_725" x1="96.9541" y1="90.6774" x2="101.628" y2="81.9029" gradientUnits="userSpaceOnUse">
-<stop stop-color="#FF9900"/>
-<stop offset="1" stop-color="#FFEE94"/>
+<stop stopColor="#FF9900"/>
+<stop offset="1" stopColor="#FFEE94"/>
 </linearGradient>
 <linearGradient id="paint5_linear_303_725" x1="42.8936" y1="67.1054" x2="44.7391" y2="63.6404" gradientUnits="userSpaceOnUse">
-<stop stop-color="#FF9900"/>
-<stop offset="1" stop-color="#FFEE94"/>
+<stop stopColor="#FF9900"/>
+<stop offset="1" stopColor="#FFEE94"/>
 </linearGradient>
 </defs>
 </svg>

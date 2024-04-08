@@ -27,8 +27,8 @@ const StormDayIcon = () => {
 <path d="M121.315 84.5H111.54L107.29 95.8413H114.94L111.398 110L124.29 91.4249H118.623L121.315 84.5Z" fill="url(#paint3_linear_303_723)"/>
 </g>
 <defs>
-<filter id="filter0_i_303_723" x="80" y="36.5" width="14.5" height="19" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
-<feFlood flood-opacity="0" result="BackgroundImageFix"/>
+<filter id="filter0_i_303_723" x="80" y="36.5" width="14.5" height="19" filterUnits="userSpaceOnUse" colorInterpolationFilters="sRGB">
+<feFlood floodOpacity="0" result="BackgroundImageFix"/>
 <feBlend mode="normal" in="SourceGraphic" in2="BackgroundImageFix" result="shape"/>
 <feColorMatrix in="SourceAlpha" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0" result="hardAlpha"/>
 <feOffset dy="11"/>
@@ -37,8 +37,8 @@ const StormDayIcon = () => {
 <feColorMatrix type="matrix" values="0 0 0 0 1 0 0 0 0 1 0 0 0 0 1 0 0 0 1 0"/>
 <feBlend mode="normal" in2="shape" result="effect1_innerShadow_303_723"/>
 </filter>
-<filter id="filter1_i_303_723" x="69.5" y="45.5" width="66" height="49" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
-<feFlood flood-opacity="0" result="BackgroundImageFix"/>
+<filter id="filter1_i_303_723" x="69.5" y="45.5" width="66" height="49" filterUnits="userSpaceOnUse" colorInterpolationFilters="sRGB">
+<feFlood floodOpacity="0" result="BackgroundImageFix"/>
 <feBlend mode="normal" in="SourceGraphic" in2="BackgroundImageFix" result="shape"/>
 <feColorMatrix in="SourceAlpha" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0" result="hardAlpha"/>
 <feOffset dy="11"/>
@@ -47,8 +47,8 @@ const StormDayIcon = () => {
 <feColorMatrix type="matrix" values="0 0 0 0 1 0 0 0 0 1 0 0 0 0 1 0 0 0 1 0"/>
 <feBlend mode="normal" in2="shape" result="effect1_innerShadow_303_723"/>
 </filter>
-<filter id="filter2_i_303_723" x="99" y="29" width="44" height="36.5" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
-<feFlood flood-opacity="0" result="BackgroundImageFix"/>
+<filter id="filter2_i_303_723" x="99" y="29" width="44" height="36.5" filterUnits="userSpaceOnUse" colorInterpolationFilters="sRGB">
+<feFlood floodOpacity="0" result="BackgroundImageFix"/>
 <feBlend mode="normal" in="SourceGraphic" in2="BackgroundImageFix" result="shape"/>
 <feColorMatrix in="SourceAlpha" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0" result="hardAlpha"/>
 <feOffset dy="11"/>
@@ -57,8 +57,8 @@ const StormDayIcon = () => {
 <feColorMatrix type="matrix" values="0 0 0 0 1 0 0 0 0 1 0 0 0 0 1 0 0 0 1 0"/>
 <feBlend mode="normal" in2="shape" result="effect1_innerShadow_303_723"/>
 </filter>
-<filter id="filter3_i_303_723" x="88.0986" y="95.5" width="6.78955" height="13.0815" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
-<feFlood flood-opacity="0" result="BackgroundImageFix"/>
+<filter id="filter3_i_303_723" x="88.0986" y="95.5" width="6.78955" height="13.0815" filterUnits="userSpaceOnUse" colorInterpolationFilters="sRGB">
+<feFlood floodOpacity="0" result="BackgroundImageFix"/>
 <feBlend mode="normal" in="SourceGraphic" in2="BackgroundImageFix" result="shape"/>
 <feColorMatrix in="SourceAlpha" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0" result="hardAlpha"/>
 <feOffset dy="9"/>
@@ -67,8 +67,8 @@ const StormDayIcon = () => {
 <feColorMatrix type="matrix" values="0 0 0 0 1 0 0 0 0 1 0 0 0 0 1 0 0 0 0.21 0"/>
 <feBlend mode="normal" in2="shape" result="effect1_innerShadow_303_723"/>
 </filter>
-<filter id="filter4_i_303_723" x="95.5" y="87.5" width="6.78955" height="13.0815" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
-<feFlood flood-opacity="0" result="BackgroundImageFix"/>
+<filter id="filter4_i_303_723" x="95.5" y="87.5" width="6.78955" height="13.0815" filterUnits="userSpaceOnUse" colorInterpolationFilters="sRGB">
+<feFlood floodOpacity="0" result="BackgroundImageFix"/>
 <feBlend mode="normal" in="SourceGraphic" in2="BackgroundImageFix" result="shape"/>
 <feColorMatrix in="SourceAlpha" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0" result="hardAlpha"/>
 <feOffset dy="9"/>
@@ -77,8 +77,8 @@ const StormDayIcon = () => {
 <feColorMatrix type="matrix" values="0 0 0 0 1 0 0 0 0 1 0 0 0 0 1 0 0 0 0.21 0"/>
 <feBlend mode="normal" in2="shape" result="effect1_innerShadow_303_723"/>
 </filter>
-<filter id="filter5_i_303_723" x="80" y="87.5" width="6.78955" height="13.0815" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
-<feFlood flood-opacity="0" result="BackgroundImageFix"/>
+<filter id="filter5_i_303_723" x="80" y="87.5" width="6.78955" height="13.0815" filterUnits="userSpaceOnUse" colorInterpolationFilters="sRGB">
+<feFlood floodOpacity="0" result="BackgroundImageFix"/>
 <feBlend mode="normal" in="SourceGraphic" in2="BackgroundImageFix" result="shape"/>
 <feColorMatrix in="SourceAlpha" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0" result="hardAlpha"/>
 <feOffset dy="9"/>
@@ -87,13 +87,13 @@ const StormDayIcon = () => {
 <feColorMatrix type="matrix" values="0 0 0 0 1 0 0 0 0 1 0 0 0 0 1 0 0 0 0.21 0"/>
 <feBlend mode="normal" in2="shape" result="effect1_innerShadow_303_723"/>
 </filter>
-<filter id="filter6_f_303_723" x="0.318115" y="4.94556" width="203.379" height="161.201" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
-<feFlood flood-opacity="0" result="BackgroundImageFix"/>
+<filter id="filter6_f_303_723" x="0.318115" y="4.94556" width="203.379" height="161.201" filterUnits="userSpaceOnUse" colorInterpolationFilters="sRGB">
+<feFlood floodOpacity="0" result="BackgroundImageFix"/>
 <feBlend mode="normal" in="SourceGraphic" in2="BackgroundImageFix" result="shape"/>
 <feGaussianBlur stdDeviation="38.5" result="effect1_foregroundBlur_303_723"/>
 </filter>
-<filter id="filter7_i_303_723" x="105.29" y="84.5" width="19" height="25.5" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
-<feFlood flood-opacity="0" result="BackgroundImageFix"/>
+<filter id="filter7_i_303_723" x="105.29" y="84.5" width="19" height="25.5" filterUnits="userSpaceOnUse" colorInterpolationFilters="sRGB">
+<feFlood floodOpacity="0" result="BackgroundImageFix"/>
 <feBlend mode="normal" in="SourceGraphic" in2="BackgroundImageFix" result="shape"/>
 <feColorMatrix in="SourceAlpha" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0" result="hardAlpha"/>
 <feOffset dx="-2"/>
@@ -103,20 +103,20 @@ const StormDayIcon = () => {
 <feBlend mode="normal" in2="shape" result="effect1_innerShadow_303_723"/>
 </filter>
 <linearGradient id="paint0_linear_303_723" x1="80.9223" y1="44.6964" x2="96.0118" y2="33.9041" gradientUnits="userSpaceOnUse">
-<stop stop-color="white" stop-opacity="0.65"/>
-<stop offset="1" stop-color="white" stop-opacity="0.58"/>
+<stop stopColor="white" stopOpacity="0.65"/>
+<stop offset="1" stopColor="white" stopOpacity="0.58"/>
 </linearGradient>
 <linearGradient id="paint1_linear_303_723" x1="73.6979" y1="81.0179" x2="140.06" y2="31.1619" gradientUnits="userSpaceOnUse">
-<stop stop-color="white" stop-opacity="0.65"/>
-<stop offset="1" stop-color="white" stop-opacity="0.58"/>
+<stop stopColor="white" stopOpacity="0.65"/>
+<stop offset="1" stopColor="white" stopOpacity="0.58"/>
 </linearGradient>
 <linearGradient id="paint2_linear_303_723" x1="140.201" y1="53.1339" x2="95.3549" y2="20.0779" gradientUnits="userSpaceOnUse">
-<stop stop-color="white" stop-opacity="0.65"/>
-<stop offset="1" stop-color="white" stop-opacity="0.58"/>
+<stop stopColor="white" stopOpacity="0.65"/>
+<stop offset="1" stopColor="white" stopOpacity="0.58"/>
 </linearGradient>
 <linearGradient id="paint3_linear_303_723" x1="113.688" y1="107.544" x2="130.106" y2="84.7064" gradientUnits="userSpaceOnUse">
-<stop stop-color="#FF9900"/>
-<stop offset="1" stop-color="#FFEE94"/>
+<stop stopColor="#FF9900"/>
+<stop offset="1" stopColor="#FFEE94"/>
 </linearGradient>
 </defs>
 </svg>

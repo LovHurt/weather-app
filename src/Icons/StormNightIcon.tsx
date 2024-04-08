@@ -30,13 +30,13 @@ const StormNightIcon = () => {
 <path d="M104.697 63.2073C105.552 61.0831 106.678 59.0553 108.059 57.1802C104.369 57.5924 100.69 58.7606 97.2544 60.7442C89.7763 65.0617 85.0681 72.3069 83.7899 80.1147C84.731 79.8842 85.7148 79.762 86.7273 79.762C89.7671 79.762 92.5488 80.864 94.6924 82.6893C95.6176 80.5928 96.9601 78.7168 98.6166 77.1634C98.5401 76.7609 98.5 76.3455 98.5 75.9206C98.5 73.3239 99.9965 71.0786 102.17 70.0085C102.148 69.7587 102.136 69.5056 102.136 69.2499C102.136 66.8697 103.12 64.7231 104.697 63.2073Z" fill="url(#paint4_linear_303_728)"/>
 </g>
 <defs>
-<filter id="filter0_f_303_728" x="28.7167" y="0.306396" width="159.773" height="164.807" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
-<feFlood flood-opacity="0" result="BackgroundImageFix"/>
+<filter id="filter0_f_303_728" x="28.7167" y="0.306396" width="159.773" height="164.807" filterUnits="userSpaceOnUse" colorInterpolationFilters="sRGB">
+<feFlood floodOpacity="0" result="BackgroundImageFix"/>
 <feBlend mode="normal" in="SourceGraphic" in2="BackgroundImageFix" result="shape"/>
 <feGaussianBlur stdDeviation="26.5" result="effect1_foregroundBlur_303_728"/>
 </filter>
-<filter id="filter1_i_303_728" x="93.0986" y="120" width="6.78955" height="13.0815" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
-<feFlood flood-opacity="0" result="BackgroundImageFix"/>
+<filter id="filter1_i_303_728" x="93.0986" y="120" width="6.78955" height="13.0815" filterUnits="userSpaceOnUse" colorInterpolationFilters="sRGB">
+<feFlood floodOpacity="0" result="BackgroundImageFix"/>
 <feBlend mode="normal" in="SourceGraphic" in2="BackgroundImageFix" result="shape"/>
 <feColorMatrix in="SourceAlpha" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0" result="hardAlpha"/>
 <feOffset dy="9"/>
@@ -45,8 +45,8 @@ const StormNightIcon = () => {
 <feColorMatrix type="matrix" values="0 0 0 0 1 0 0 0 0 1 0 0 0 0 1 0 0 0 0.21 0"/>
 <feBlend mode="normal" in2="shape" result="effect1_innerShadow_303_728"/>
 </filter>
-<filter id="filter2_i_303_728" x="80" y="113.5" width="6.78955" height="13.0815" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
-<feFlood flood-opacity="0" result="BackgroundImageFix"/>
+<filter id="filter2_i_303_728" x="80" y="113.5" width="6.78955" height="13.0815" filterUnits="userSpaceOnUse" colorInterpolationFilters="sRGB">
+<feFlood floodOpacity="0" result="BackgroundImageFix"/>
 <feBlend mode="normal" in="SourceGraphic" in2="BackgroundImageFix" result="shape"/>
 <feColorMatrix in="SourceAlpha" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0" result="hardAlpha"/>
 <feOffset dy="9"/>
@@ -55,13 +55,13 @@ const StormNightIcon = () => {
 <feColorMatrix type="matrix" values="0 0 0 0 1 0 0 0 0 1 0 0 0 0 1 0 0 0 0.21 0"/>
 <feBlend mode="normal" in2="shape" result="effect1_innerShadow_303_728"/>
 </filter>
-<filter id="filter3_f_303_728" x="0.318115" y="30.9456" width="203.379" height="161.201" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
-<feFlood flood-opacity="0" result="BackgroundImageFix"/>
+<filter id="filter3_f_303_728" x="0.318115" y="30.9456" width="203.379" height="161.201" filterUnits="userSpaceOnUse" colorInterpolationFilters="sRGB">
+<feFlood floodOpacity="0" result="BackgroundImageFix"/>
 <feBlend mode="normal" in="SourceGraphic" in2="BackgroundImageFix" result="shape"/>
 <feGaussianBlur stdDeviation="38.5" result="effect1_foregroundBlur_303_728"/>
 </filter>
-<filter id="filter4_i_303_728" x="105.29" y="111.5" width="19" height="24.5" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
-<feFlood flood-opacity="0" result="BackgroundImageFix"/>
+<filter id="filter4_i_303_728" x="105.29" y="111.5" width="19" height="24.5" filterUnits="userSpaceOnUse" colorInterpolationFilters="sRGB">
+<feFlood floodOpacity="0" result="BackgroundImageFix"/>
 <feBlend mode="normal" in="SourceGraphic" in2="BackgroundImageFix" result="shape"/>
 <feColorMatrix in="SourceAlpha" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0" result="hardAlpha"/>
 <feOffset dx="-2"/>
@@ -70,8 +70,8 @@ const StormNightIcon = () => {
 <feColorMatrix type="matrix" values="0 0 0 0 1 0 0 0 0 1 0 0 0 0 1 0 0 0 0.5 0"/>
 <feBlend mode="normal" in2="shape" result="effect1_innerShadow_303_728"/>
 </filter>
-<filter id="filter5_i_303_728" x="79.5" y="63.5" width="14.5" height="19" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
-<feFlood flood-opacity="0" result="BackgroundImageFix"/>
+<filter id="filter5_i_303_728" x="79.5" y="63.5" width="14.5" height="19" filterUnits="userSpaceOnUse" colorInterpolationFilters="sRGB">
+<feFlood floodOpacity="0" result="BackgroundImageFix"/>
 <feBlend mode="normal" in="SourceGraphic" in2="BackgroundImageFix" result="shape"/>
 <feColorMatrix in="SourceAlpha" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0" result="hardAlpha"/>
 <feOffset dy="11"/>
@@ -80,8 +80,8 @@ const StormNightIcon = () => {
 <feColorMatrix type="matrix" values="0 0 0 0 1 0 0 0 0 1 0 0 0 0 1 0 0 0 1 0"/>
 <feBlend mode="normal" in2="shape" result="effect1_innerShadow_303_728"/>
 </filter>
-<filter id="filter6_i_303_728" x="69" y="72.5" width="66" height="49" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
-<feFlood flood-opacity="0" result="BackgroundImageFix"/>
+<filter id="filter6_i_303_728" x="69" y="72.5" width="66" height="49" filterUnits="userSpaceOnUse" colorInterpolationFilters="sRGB">
+<feFlood floodOpacity="0" result="BackgroundImageFix"/>
 <feBlend mode="normal" in="SourceGraphic" in2="BackgroundImageFix" result="shape"/>
 <feColorMatrix in="SourceAlpha" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0" result="hardAlpha"/>
 <feOffset dy="11"/>
@@ -90,8 +90,8 @@ const StormNightIcon = () => {
 <feColorMatrix type="matrix" values="0 0 0 0 1 0 0 0 0 1 0 0 0 0 1 0 0 0 1 0"/>
 <feBlend mode="normal" in2="shape" result="effect1_innerShadow_303_728"/>
 </filter>
-<filter id="filter7_i_303_728" x="98.5" y="56" width="44" height="36.5" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
-<feFlood flood-opacity="0" result="BackgroundImageFix"/>
+<filter id="filter7_i_303_728" x="98.5" y="56" width="44" height="36.5" filterUnits="userSpaceOnUse" colorInterpolationFilters="sRGB">
+<feFlood floodOpacity="0" result="BackgroundImageFix"/>
 <feBlend mode="normal" in="SourceGraphic" in2="BackgroundImageFix" result="shape"/>
 <feColorMatrix in="SourceAlpha" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0" result="hardAlpha"/>
 <feOffset dy="11"/>
@@ -100,8 +100,8 @@ const StormNightIcon = () => {
 <feColorMatrix type="matrix" values="0 0 0 0 1 0 0 0 0 1 0 0 0 0 1 0 0 0 1 0"/>
 <feBlend mode="normal" in2="shape" result="effect1_innerShadow_303_728"/>
 </filter>
-<filter id="filter8_i_303_728" x="83.7899" y="57.1802" width="24.2694" height="29.509" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
-<feFlood flood-opacity="0" result="BackgroundImageFix"/>
+<filter id="filter8_i_303_728" x="83.7899" y="57.1802" width="24.2694" height="29.509" filterUnits="userSpaceOnUse" colorInterpolationFilters="sRGB">
+<feFlood floodOpacity="0" result="BackgroundImageFix"/>
 <feBlend mode="normal" in="SourceGraphic" in2="BackgroundImageFix" result="shape"/>
 <feColorMatrix in="SourceAlpha" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0" result="hardAlpha"/>
 <feOffset dy="4"/>
@@ -111,24 +111,24 @@ const StormNightIcon = () => {
 <feBlend mode="normal" in2="shape" result="effect1_innerShadow_303_728"/>
 </filter>
 <linearGradient id="paint0_linear_303_728" x1="113.688" y1="133.544" x2="130.106" y2="110.706" gradientUnits="userSpaceOnUse">
-<stop stop-color="#FF9900"/>
-<stop offset="1" stop-color="#FFEE94"/>
+<stop stopColor="#FF9900"/>
+<stop offset="1" stopColor="#FFEE94"/>
 </linearGradient>
 <linearGradient id="paint1_linear_303_728" x1="80.4223" y1="71.6964" x2="95.5118" y2="60.9041" gradientUnits="userSpaceOnUse">
-<stop stop-color="white" stop-opacity="0.65"/>
-<stop offset="1" stop-color="white" stop-opacity="0.58"/>
+<stop stopColor="white" stopOpacity="0.65"/>
+<stop offset="1" stopColor="white" stopOpacity="0.58"/>
 </linearGradient>
 <linearGradient id="paint2_linear_303_728" x1="73.1979" y1="108.018" x2="139.56" y2="58.1619" gradientUnits="userSpaceOnUse">
-<stop stop-color="white" stop-opacity="0.65"/>
-<stop offset="1" stop-color="white" stop-opacity="0.58"/>
+<stop stopColor="white" stopOpacity="0.65"/>
+<stop offset="1" stopColor="white" stopOpacity="0.58"/>
 </linearGradient>
 <linearGradient id="paint3_linear_303_728" x1="139.701" y1="80.1339" x2="94.8549" y2="47.0779" gradientUnits="userSpaceOnUse">
-<stop stop-color="white" stop-opacity="0.65"/>
-<stop offset="1" stop-color="white" stop-opacity="0.58"/>
+<stop stopColor="white" stopOpacity="0.65"/>
+<stop offset="1" stopColor="white" stopOpacity="0.58"/>
 </linearGradient>
 <linearGradient id="paint4_linear_303_728" x1="109.405" y1="52.7298" x2="99.5931" y2="112.142" gradientUnits="userSpaceOnUse">
-<stop stop-color="#FFEE94"/>
-<stop offset="1" stop-color="#FF9900"/>
+<stop stopColor="#FFEE94"/>
+<stop offset="1" stopColor="#FF9900"/>
 </linearGradient>
 </defs>
 </svg>

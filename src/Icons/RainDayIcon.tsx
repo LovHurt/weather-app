@@ -21,8 +21,8 @@ const RainDayIcon = () => {
 <path d="M68.867 88.7354C66.3052 92.0959 62.7187 98.8169 68.867 98.8169C75.0153 98.8169 71.4288 92.0959 68.867 88.7354Z" fill="#507CB1"/>
 </g>
 <defs>
-<filter id="filter0_i_303_722" x="34" y="36.5" width="14.5" height="19" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
-<feFlood flood-opacity="0" result="BackgroundImageFix"/>
+<filter id="filter0_i_303_722" x="34" y="36.5" width="14.5" height="19" filterUnits="userSpaceOnUse" colorInterpolationFilters="sRGB">
+<feFlood floodOpacity="0" result="BackgroundImageFix"/>
 <feBlend mode="normal" in="SourceGraphic" in2="BackgroundImageFix" result="shape"/>
 <feColorMatrix in="SourceAlpha" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0" result="hardAlpha"/>
 <feOffset dy="11"/>
@@ -31,8 +31,8 @@ const RainDayIcon = () => {
 <feColorMatrix type="matrix" values="0 0 0 0 1 0 0 0 0 1 0 0 0 0 1 0 0 0 1 0"/>
 <feBlend mode="normal" in2="shape" result="effect1_innerShadow_303_722"/>
 </filter>
-<filter id="filter1_i_303_722" x="23.5" y="45.5" width="66" height="49" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
-<feFlood flood-opacity="0" result="BackgroundImageFix"/>
+<filter id="filter1_i_303_722" x="23.5" y="45.5" width="66" height="49" filterUnits="userSpaceOnUse" colorInterpolationFilters="sRGB">
+<feFlood floodOpacity="0" result="BackgroundImageFix"/>
 <feBlend mode="normal" in="SourceGraphic" in2="BackgroundImageFix" result="shape"/>
 <feColorMatrix in="SourceAlpha" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0" result="hardAlpha"/>
 <feOffset dy="11"/>
@@ -41,8 +41,8 @@ const RainDayIcon = () => {
 <feColorMatrix type="matrix" values="0 0 0 0 1 0 0 0 0 1 0 0 0 0 1 0 0 0 1 0"/>
 <feBlend mode="normal" in2="shape" result="effect1_innerShadow_303_722"/>
 </filter>
-<filter id="filter2_i_303_722" x="53" y="29" width="44" height="36.5" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
-<feFlood flood-opacity="0" result="BackgroundImageFix"/>
+<filter id="filter2_i_303_722" x="53" y="29" width="44" height="36.5" filterUnits="userSpaceOnUse" colorInterpolationFilters="sRGB">
+<feFlood floodOpacity="0" result="BackgroundImageFix"/>
 <feBlend mode="normal" in="SourceGraphic" in2="BackgroundImageFix" result="shape"/>
 <feColorMatrix in="SourceAlpha" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0" result="hardAlpha"/>
 <feOffset dy="11"/>
@@ -51,8 +51,8 @@ const RainDayIcon = () => {
 <feColorMatrix type="matrix" values="0 0 0 0 1 0 0 0 0 1 0 0 0 0 1 0 0 0 1 0"/>
 <feBlend mode="normal" in2="shape" result="effect1_innerShadow_303_722"/>
 </filter>
-<filter id="filter3_i_303_722" x="37.6965" y="88.7354" width="6.78961" height="13.0815" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
-<feFlood flood-opacity="0" result="BackgroundImageFix"/>
+<filter id="filter3_i_303_722" x="37.6965" y="88.7354" width="6.78961" height="13.0815" filterUnits="userSpaceOnUse" colorInterpolationFilters="sRGB">
+<feFlood floodOpacity="0" result="BackgroundImageFix"/>
 <feBlend mode="normal" in="SourceGraphic" in2="BackgroundImageFix" result="shape"/>
 <feColorMatrix in="SourceAlpha" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0" result="hardAlpha"/>
 <feOffset dy="9"/>
@@ -61,8 +61,8 @@ const RainDayIcon = () => {
 <feColorMatrix type="matrix" values="0 0 0 0 1 0 0 0 0 1 0 0 0 0 1 0 0 0 0.21 0"/>
 <feBlend mode="normal" in2="shape" result="effect1_innerShadow_303_722"/>
 </filter>
-<filter id="filter4_i_303_722" x="52.0986" y="93.6733" width="6.78961" height="13.0815" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
-<feFlood flood-opacity="0" result="BackgroundImageFix"/>
+<filter id="filter4_i_303_722" x="52.0986" y="93.6733" width="6.78961" height="13.0815" filterUnits="userSpaceOnUse" colorInterpolationFilters="sRGB">
+<feFlood floodOpacity="0" result="BackgroundImageFix"/>
 <feBlend mode="normal" in="SourceGraphic" in2="BackgroundImageFix" result="shape"/>
 <feColorMatrix in="SourceAlpha" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0" result="hardAlpha"/>
 <feOffset dy="9"/>
@@ -71,8 +71,8 @@ const RainDayIcon = () => {
 <feColorMatrix type="matrix" values="0 0 0 0 1 0 0 0 0 1 0 0 0 0 1 0 0 0 0.21 0"/>
 <feBlend mode="normal" in2="shape" result="effect1_innerShadow_303_722"/>
 </filter>
-<filter id="filter5_i_303_722" x="65.4722" y="88.7354" width="6.78961" height="13.0815" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
-<feFlood flood-opacity="0" result="BackgroundImageFix"/>
+<filter id="filter5_i_303_722" x="65.4722" y="88.7354" width="6.78961" height="13.0815" filterUnits="userSpaceOnUse" colorInterpolationFilters="sRGB">
+<feFlood floodOpacity="0" result="BackgroundImageFix"/>
 <feBlend mode="normal" in="SourceGraphic" in2="BackgroundImageFix" result="shape"/>
 <feColorMatrix in="SourceAlpha" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0" result="hardAlpha"/>
 <feOffset dy="9"/>
@@ -82,16 +82,16 @@ const RainDayIcon = () => {
 <feBlend mode="normal" in2="shape" result="effect1_innerShadow_303_722"/>
 </filter>
 <linearGradient id="paint0_linear_303_722" x1="34.9223" y1="44.6964" x2="50.0118" y2="33.9041" gradientUnits="userSpaceOnUse">
-<stop stop-color="white" stop-opacity="0.65"/>
-<stop offset="1" stop-color="white" stop-opacity="0.58"/>
+<stop stopColor="white" stopOpacity="0.65"/>
+<stop offset="1" stopColor="white" stopOpacity="0.58"/>
 </linearGradient>
 <linearGradient id="paint1_linear_303_722" x1="27.6979" y1="81.0179" x2="94.0604" y2="31.1619" gradientUnits="userSpaceOnUse">
-<stop stop-color="white" stop-opacity="0.65"/>
-<stop offset="1" stop-color="white" stop-opacity="0.58"/>
+<stop stopColor="white" stopOpacity="0.65"/>
+<stop offset="1" stopColor="white" stopOpacity="0.58"/>
 </linearGradient>
 <linearGradient id="paint2_linear_303_722" x1="94.2014" y1="53.1339" x2="49.3549" y2="20.0779" gradientUnits="userSpaceOnUse">
-<stop stop-color="white" stop-opacity="0.65"/>
-<stop offset="1" stop-color="white" stop-opacity="0.58"/>
+<stop stopColor="white" stopOpacity="0.65"/>
+<stop offset="1" stopColor="white" stopOpacity="0.58"/>
 </linearGradient>
 </defs>
 </svg>
