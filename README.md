@@ -2,6 +2,10 @@
 
 This weather application allows users to view weather information for different locations worldwide. Users can retrieve weather information by searching for their desired location.
 
+# Project Deployment
+
+This project has been deployed on GitHub Pages. To view the application, click [here](https://lovhurt.github.io/weather-app/).
+
 # Features
 
 - Users can retrieve weather information by searching for a location.
