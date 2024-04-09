@@ -21,7 +21,7 @@ This weather application allows users to view weather information for different 
 
 # Installation
 
-1- Clone the project::
+1- Clone the project:
 git clone https://github.com/LovHurt/weather-app.git
 
 2- Navigate to the project directory:
