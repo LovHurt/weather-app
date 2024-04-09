@@ -1,30 +1,47 @@
-# React + TypeScript + Vite
+# iWeatherApp Project, 
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This weather application allows users to view weather information for different locations worldwide. Users can retrieve weather information by searching for their desired location.
 
-Currently, two official plugins are available:
+# Features
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- Users can retrieve weather information by searching for a location.
+  
+- View current weather information as well as 5-day weather forecasts.
+  
+- Simple and user-friendly interface.
+  
+- Visual representation of weather conditions with weather icons.
 
-## Expanding the ESLint configuration
+- Data fetching and posting operations were handled using Axios and React Query (aka Tanquery).
 
-If you are developing a production application, we recommend updating the configuration to enable type aware lint rules:
+- OpenWeather API was utilized for operations involving weather and city data.
 
-- Configure the top-level `parserOptions` property like this:
+- To prevent making requests every time the user types in the input, a custom hook named useDebounce was employed. This hook delays the request by 1 second after the user finishes typing.
 
-```js
-export default {
-  // other rules...
-  parserOptions: {
-    ecmaVersion: 'latest',
-    sourceType: 'module',
-    project: ['./tsconfig.json', './tsconfig.node.json'],
-    tsconfigRootDir: __dirname,
-  },
-}
-```
 
-- Replace `plugin:@typescript-eslint/recommended` to `plugin:@typescript-eslint/recommended-type-checked` or `plugin:@typescript-eslint/strict-type-checked`
-- Optionally add `plugin:@typescript-eslint/stylistic-type-checked`
-- Install [eslint-plugin-react](https://github.com/jsx-eslint/eslint-plugin-react) and add `plugin:react/recommended` & `plugin:react/jsx-runtime` to the `extends` list
+# Installation
+
+1- Clone the project::
+git clone https://github.com/LovHurt/weather-app.git
+
+2- Navigate to the project directory:
+cd weather-app
+
+3- Install the required packages:
+npm install
+
+4- Start the application:
+npm run dev
+
+5- Click on the http://localhost:5173/weather-app/ link.
+
+# Technologies Used
+
+* React.js
+* TypeScript
+* React Query
+* React Router
+* CSS
+* Axios
+* React-toastify
+
