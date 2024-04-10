@@ -4,7 +4,7 @@ This weather application allows users to view weather information for different 
 
 # Project Deployment
 
-This project has been deployed on GitHub Pages. To view the application, click [here](https://lovhurt.github.io/weather-app/).
+This project has been deployed on GitHub Pages. To view the application, click [lovhurt.github.io/weather-app/](https://lovhurt.github.io/weather-app/).
 
 # Features
 
@@ -21,6 +21,8 @@ This project has been deployed on GitHub Pages. To view the application, click [
 - OpenWeather API was utilized for operations involving weather and city data.
 
 - To prevent making requests every time the user types in the input, a custom hook named useDebounce was employed. This hook delays the request by 1 second after the user finishes typing.
+
+- Users can effortlessly retrieve weather updates for their current location with just a single click. To enable this feature, users must grant permission for their browser to access their location information.
 
 
 # Installation
@@ -45,7 +47,9 @@ npm run dev
 * TypeScript
 * React Query
 * React Router
+* Geolocation API
 * CSS
 * Axios
 * React-toastify
+* Vite
 
