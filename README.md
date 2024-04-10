@@ -1,4 +1,4 @@
-# iWeatherApp Project, 
+# iWeatherApp Project
 
 This weather application allows users to view weather information for different locations worldwide. Users can retrieve weather information by searching for their desired location.
 
