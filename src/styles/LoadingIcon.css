@@ -14,4 +14,7 @@
     transform: translateY(-50%);
   }
   
+  .loading-icon-container svg line {
+    stroke: #8FB2F5; 
+  }
   
