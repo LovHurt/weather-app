@@ -1,4 +1,4 @@
-import { useState } from "react";
+import { useEffect, useState } from "react";
 import { useQuery } from "react-query";
 import CityData from "./Interfaces/CityData";
 import fetchCityData from "./Services/fetchCityData";
@@ -8,9 +8,12 @@ import useDebounce from "./Hooks/useDebounce";
 import LoadingIcon from "./Icons/LoadingIcon";
 import { Link } from "react-router-dom";
 import IWeatherIcon from "./Icons/IWeatherIcon";
+import getLocation from "./Methods/getLocation";
 
 const SearchWeatherPage = () => {
   const [cityName, setCityName] = useState("");
+  const [usersLatitude, setUsersLatitude] = useState<number | null>(null);
+  const [usersLongitude, setUsersLongitude] = useState<number | null>(null);
   const debouncedCity = useDebounce(cityName, 1000);
 
   const {
@@ -28,6 +31,21 @@ const SearchWeatherPage = () => {
       "City information could not be retrieved. Please enter a valid city name."
     );
   }
+
+  useEffect(() => {
+    const handleLocation = async () => {
+      try {
+        const locationData = await getLocation();
+        if (locationData) {
+          setUsersLatitude(locationData.usersLatitude);
+          setUsersLongitude(locationData.usersLongitude);
+        }
+      } catch (error) {
+        console.error("Error getting location:", error);
+      }
+    };
+    handleLocation();
+  }, []);
 
   return (
     <div className="container">
@@ -70,6 +88,17 @@ const SearchWeatherPage = () => {
               </div>
             )}
           </div>
+          <div className="myweather-container">
+              {usersLatitude !== null && usersLongitude !== null && (
+                <Link
+                  to={`/weather-app/weather-details/${usersLatitude}/${usersLongitude}`}
+                >
+                  <span>
+                  Find My Weather
+                  </span>
+                </Link>
+              )}
+            </div>
         </div>
       </div>
     </div>

@@ -5,7 +5,6 @@ html {
   background-image: url('/background.png');
   background-size: cover; 
   background-repeat: repeat;
-  background-color: #1E1E29;
 }
 
 .container {
@@ -30,10 +29,31 @@ html {
   padding: 3rem;
   box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
   position: relative;
+  display: flex;
 }
 
 .search-input {
   margin-top: 1rem;
+}
+
+.myweather-container {
+border-radius: 8px;
+background-color: #1E1E29;
+max-height: 55px;
+max-width: 120px;
+margin-left: 0.3rem;
+justify-content: center;
+display: flex; 
+align-items: center; 
+}
+
+.myweather-container a {
+  color: #BFBFD4;
+  font-family: 'Nunito', sans-serif; 
+  font-size: 14px;
+  font-weight: bold;
+  text-decoration: none;
+  margin: 1rem;
 }
 
 .input-container input {
