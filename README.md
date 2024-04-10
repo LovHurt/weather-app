@@ -53,3 +53,32 @@ npm run dev
 * React-toastify
 * Vite
 
+# Project Demo
+![Screenshot 2024-04-10 234441](https://github.com/LovHurt/weather-app/assets/137903815/e18bea3a-cc00-42c9-857f-644523cda793)  ![Screenshot 2024-04-10 234459](https://github.com/LovHurt/weather-app/assets/137903815/347ae1ad-1359-45c7-ad13-301c8b75b3c1)
+
+
+https://github.com/LovHurt/weather-app/assets/137903815/1f22b8ec-b0bf-4738-8861-0b984e0e501c
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
